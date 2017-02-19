@@ -64,11 +64,11 @@ static const int wifiType = 0; // 0:Station  1:AP
 //AP mode configuration
 const char *AP_ssid = "arducam_esp8266";
 //Default is no password.If you want to set password,put your password here
-const char *AP_password = "n0shar1a";
+const char *AP_password = "APpassword";
 
 //Station mode you should put your ssid and password
-const char *ssid = "RanchoRelaxo"; // Put your SSID here
-const char *password = "n0shar1a"; // Put your PASSWORD here
+const char *ssid = "yourWiFiSSID"; // Put your SSID here
+const char *password = "yourWiFiPassword"; // Put your PASSWORD here
 
 static IPAddress ip(192, 168, 1, 203); // static IP used for browser access: http://IPaddress
 static IPAddress gateway(192, 168, 1, 1);
