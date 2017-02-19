@@ -8,3 +8,5 @@ There is a video demonstration of this application here: https://youtu.be/XqfSz1
 
 Source code overview video: https://youtu.be/H7WHN6SKeg4
 
+Contains fixes for "dark" image captures and blocky broken image capture problems.
+
